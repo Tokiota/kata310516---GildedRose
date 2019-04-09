@@ -1,7 +1,5 @@
 # Kata II: Gilded Rose Refactor Kata
-<p style="text-align:center; float: right;" align="center">
-  <img align="center" src="http://s7.postimg.org/w1aay2wez/the_gilded_rose_banner.jpg" style="text-align:center; float: right;"/>
-</p>
+
 Se trata de un ejercicio de refactorización en el que vamos a tener que leer el código que hizo otra persona, comprender el nuevo desarrollo a afrontar que nos requiere el enunciado, diseñar los cambios i los tests, e implementarlos (primero tests, segundo funcionalidad).
 Podéis descargaros el proyecto y el código en que nos basaremos para esta kata desde el siguiente enlace a un repositorio de GitHub: https://github.com/NotMyself/GildedRose 
 
